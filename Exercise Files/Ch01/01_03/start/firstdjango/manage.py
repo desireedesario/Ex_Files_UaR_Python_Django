@@ -1,3 +1,6 @@
+#runs commands associated with our project
+#basically runs commands
+#COMMONLY LEFT ALONE AFTER BEING CREATED THROUGH DJANGO
 #!/usr/bin/env python
 import os
 import sys

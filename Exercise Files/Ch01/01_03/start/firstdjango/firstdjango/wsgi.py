@@ -1,3 +1,5 @@
+#provides a hook foor webservers / used to buy a webserver to run a project
+#COMMONLY LEFT ALONE AFTER BEING CREATED THROUGH DJANGO
 """
 WSGI config for firstdjango project.
 

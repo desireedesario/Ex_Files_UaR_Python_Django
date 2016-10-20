@@ -1,3 +1,5 @@
+#Configures Django
+#edited for configuring django
 """
 Django settings for firstdjango project.
 
@@ -37,6 +39,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'firstapp'
 )
 
 MIDDLEWARE_CLASSES = (

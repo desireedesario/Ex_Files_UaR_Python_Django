@@ -1,3 +1,5 @@
+#routes reuqests based on URL
+#edited to request routes
 from django.conf.urls import include, url
 from django.contrib import admin
 
