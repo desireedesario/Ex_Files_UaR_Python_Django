@@ -19,3 +19,15 @@ DATABASES - changing databases from PostgreSQL, MySQL, etc.
 
 ##THE INVENTORY PROJECT
 - Store
+
+
+(migration commands)
+- python manage.py makemigrations
+- python manage.py migrate
+
+##THE REGULAR EXPRESSIONS
+- the regular expression "person must be this tall" will match the string person anywhere in the text.
+- \d : will match a single digit character. d stands for digit and the b
+backslash will find any digit character.
+- \d+ : will match one or more character.
+- ^admin/ will match anywhere where a /admin/ is displayed, but will not locate this within the text.
